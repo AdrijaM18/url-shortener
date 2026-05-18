@@ -1,6 +1,8 @@
 # URL Shortener
 A Spring Boot URL shortener service backed by MongoDB.
 
+> Submitted for Roadmap.sh project: https://roadmap.sh/projects/url-shortening-service
+
 ## Features
 
 - Create shortened URLs
